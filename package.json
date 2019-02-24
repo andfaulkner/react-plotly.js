@@ -4,7 +4,7 @@
   "license": "MIT",
   "description": "A plotly.js react component from Plotly",
   "author": "Plotly, Inc.",
-  "main": "react-plotly.js",
+  "main": "src/react-plotly.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/plotly/react-plotly.js.git"
